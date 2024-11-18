@@ -1,0 +1,27 @@
+{
+    "elements": [
+        {
+            "elType": "section",
+            "settings": {
+                "layout": "boxed"
+            },
+            "elements": [
+                {
+                    "elType": "column",
+                    "elements": [
+                        {
+                            "elType": "widget",
+                            "widgetType": "heading",
+                            "settings": {
+                                "title": "Hello World!",
+                                "align": "center"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "id": "123456",
+    "title": "Sample Template"
+}
